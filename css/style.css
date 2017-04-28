@@ -1,0 +1,59 @@
+header #tp {
+  background-image: url(landing.jpg);height: 600px; width: 1000px;
+  color: white;
+  text-align: center;
+  font-family: cursive;
+  margin: 0;
+  width: auto;
+}
+
+header #top .title{
+  font-weight: lighter;
+}
+
+header #top .highlight{
+  font-weight: bold;
+}
+
+/*body*/
+.breko {
+  background-image: url(../ip2/assets/foodtop/breakfast.jpg);
+  height: 120px;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  font-family: serif;
+}
+
+.lunch {
+  background-image: url(../ip2/assets/foodtop/lunch.jpg);
+  font-size: 20px;
+  text-align: center;
+  height: 120px;
+  color: white;
+  font-family: serif;
+}
+
+.dinner {
+  background-image: url(../ip2/assets/foodtop/dinner.jpg);
+  font-size: 20px;
+  text-align: center;
+  height: 120px;
+  color: white;
+  font-family: serif;
+}
+
+.party {
+  background-color: orange;
+  height: 70px;
+  font-size: 30px;
+  text-align: center;
+  padding: 0;
+}
+
+.happyh{
+  text-align: center;
+  height: 60px;
+  font-size: 30px;
+  padding: 0;
+}

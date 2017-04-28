@@ -1,5 +1,5 @@
 header #tp {
-  background-image: url(landing.jpg);height: 600px; width: 1000px;
+  background-image: url(../ip2/assets/backgrounds/landing.jpg);height: 600px; width: 1000px;
   color: white;
   text-align: center;
   font-family: cursive;
@@ -56,4 +56,8 @@ header #top .highlight{
   height: 60px;
   font-size: 30px;
   padding: 0;
+}
+
+.variety{
+  background-image: url(../ip2/assets/backgrounds/foodsBg.jpg);
 }

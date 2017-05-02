@@ -180,18 +180,15 @@ h8{
   font-family: monospace;
 }
 
-p{
-  display: inline-block;
-}
-
 .table{
   color: orange;
   cursor: pointer;
   text-align: center;
 }
 
-#lists{
+#lists p{
   font-size: 23px;
+  display: inline;
 }
 
 .customers{

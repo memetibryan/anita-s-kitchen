@@ -167,3 +167,58 @@ h8{
   font-size: 25px;
   font-weight: bold;
 }
+
+.out{
+  background-image: url(../ip2/assets/backgrounds/foodsBg.jpg);
+  align-items: center;
+  text-align: center;
+}
+
+.picture3{
+  color: white;
+  font-size: 33px;
+  font-family: monospace;
+}
+
+p{
+  display: inline-block;
+}
+
+.table{
+  color: orange;
+  cursor: pointer;
+  text-align: center;
+}
+
+#lists{
+  font-size: 23px;
+}
+
+.customers{
+  background-color: white;
+  padding: 100px;
+}
+
+.cust{
+  text-align: center;
+  font-size: 15px;
+  margin-left: 120px;
+}
+
+.omers{
+  text-align: center;
+  font-size: 15px;
+  margin-right: 30px;
+}
+
+h9{
+  font-weight: bold;
+  color: orange;
+  font-size: 25px;
+}
+
+.customer{
+  border: solid;
+  border-spacing: 15px;
+  border-color: grey;
+}

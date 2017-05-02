@@ -172,12 +172,14 @@ h8{
   background-image: url(../ip2/assets/backgrounds/foodsBg.jpg);
   align-items: center;
   text-align: center;
+  margin: 40px;
 }
 
 .picture3{
   color: white;
   font-size: 33px;
   font-family: monospace;
+  padding: 80px;
 }
 
 .table{
@@ -193,7 +195,7 @@ h8{
 
 .customers{
   background-color: white;
-  padding: 100px;
+  padding: 70px;
 }
 
 .cust{

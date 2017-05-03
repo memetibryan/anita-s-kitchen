@@ -6,7 +6,7 @@ This is a website of Anita's kitchen showing all the food types served, their me
 
 1) Download google chrome or any other search engine like opera mini/_phones_/ or mozila firefox/_PC*_/.
 2) Install the program.
-3) Open the [link] file:///home/bryan/Documents/projects/anita's%20Kitchen/index.html using the search engine.
+3) Open the [link] https://github.com/memetibryan/anita-s-kitchen using the search engine.
 4) Navigate through the website and see the foods available and food-courses offered too.
 5) Choose a category that you would like to book or preserve.
 6) Make payments using m-pesa or debit card is suitable.

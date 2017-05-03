@@ -11,11 +11,11 @@ This is a website of Anita's kitchen showing all the food types served, their me
 5) Choose a category that you would like to book or preserve.
 6) Make payments using m-pesa or debit card is suitable.
 
-### AUTHORS
+### AUTHORS.
 
 - Bryan Memeti- /_all the work_/
 
-#### LICENSE
+#### .
 
 MIT License
 
